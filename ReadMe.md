@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫  Hi there 👋, welcome to my profile!
 🔭 I’m Navaneeth PV <br>🌱 I’m currently learning Front-end Development<br>⚡ Bachelor of Computer Applications student at the calicut university passionate about Full-stack development.
 
 
