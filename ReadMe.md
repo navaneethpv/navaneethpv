@@ -2,11 +2,8 @@
 
 ###
 
-
-<h2 align="left">🚀 About me :</h2>
-
-
 ###
+<h3 align="left">🚀 About me :</h3>
 
 <p align="left">🔭 I’m Navaneeth PV<br>🌱 I’m currently learning Front-end Development<br>⚡ Bachelor of Computer Applications student at the calicut university passionate about Full-stack development.</p>
 
