@@ -2,17 +2,23 @@
 
 ###
 
+
 <h2 align="left">🚀 About me :</h2>
+
 
 ###
 
 <p align="left">🔭 I’m Navaneeth PV<br>🌱 I’m currently learning Front-end Development<br>⚡ Bachelor of Computer Applications student at the calicut university passionate about Full-stack development.</p>
 
+
 ###
+
 
 <h2 align="left">💻 Tech Stack:</h2>
 
+
 ###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -32,6 +38,7 @@
 
 ###
 
+
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -39,9 +46,11 @@
 
 ###
 
+
 <h1 align="left">📊 GitHub Stats:</h1>
 
 ###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=navaneethpv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -53,7 +62,15 @@
 <br clear="both">
 
 ###
+
 <img src="https://raw.githubusercontent.com/Akshay-Vs/Akshay-Vs/output/github-contribution-grid-snake-dark.svg" width="100%" align="center">
 <h1 align="left"></h1>
 
 ###
+
+<h1 align="left">✍️ Random Dev Quote:</h1>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+###
+
