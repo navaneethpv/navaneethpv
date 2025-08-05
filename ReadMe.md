@@ -52,10 +52,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/navaneethpv/navaneethpv/output/snake.svg" alt="Snake animation" />
-
 ###
-
+<img src="https://raw.githubusercontent.com/Akshay-Vs/Akshay-Vs/output/github-contribution-grid-snake-dark.svg" width="100%" align="center">
 <h1 align="left"></h1>
 
 ###
