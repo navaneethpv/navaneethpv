@@ -6,7 +6,7 @@
 
 <p align="left">
 🔭 I’m Navaneeth PV <br>
-🌱 Currently exploring the world of frontend development — learning <strong>React</strong> <br>
+🌱 Currently exploring the world of frontend development — learning <strong>Next.js</strong> <br>
 🎓 Bachelor of Computer Applications final year student<br>
 ⚡ Passionate about becoming a <strong>Full Stack Developer</strong> 🚀
 </p>
