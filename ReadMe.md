@@ -1,73 +1,54 @@
-<h2 align="left">💫 Hi there 👋, welcome to my profile!</h2>
+# 💫 About Me
 
-###
+🛠️ **Recently completed**  
+Eyoris Fashion — an AI-powered e-commerce platform with outfit recommendations, image-based search, and a full admin dashboard.
 
-<h3 align="left">🚀 About Me:</h3>
+🚀 **Currently building**  
+Nexora — a digital agency/studio focused on designing and developing modern websites and web applications for clients and startups.
 
-<p align="left">
-🔭 I’m Navaneeth PV <br>
-🌱 Currently exploring the world of frontend development — learning <strong>Next.js</strong> <br>
-🎓 Bachelor of Computer Applications final year student<br>
-⚡ Passionate about becoming a <strong>Full Stack Developer</strong> 🚀
-</p>
+🤝 **Looking to collaborate on**  
+Frontend-heavy projects, React / Next.js applications, and UI-focused digital products.
 
-###
+🌱 **Currently learning**  
+Advanced frontend architecture, TypeScript, and premium UI animations using Framer Motion and GSAP.
 
-### 🐧 Linux Enthusiast | Hyprland on Garuda 💻  
-I'm currently using <strong>Garuda Linux (Hyprland Edition)</strong> — a lightweight and blazing-fast <strong>Wayland</strong> setup.  
-Loving the customization, animations, and tiling power of <strong>Hyprland</strong>!
+💬 **Ask me about**  
+React, Next.js, Tailwind CSS, frontend development, and turning ideas into real web products.
 
----
-
-<h2 align="left">💻 Tech Stack:</h2>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-</div>
+⚡ **Fun fact**  
+I use Arch Linux and enjoy customizing my development environment.
 
 ---
 
-<h2 align="left">🌐 Socials:</h2>
-
-<div align="left">
-  <a href="https://www.instagram.com/_.navaneeth_.__" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
-  </a>
-  <a href="mailto:navaneethpv550@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
-</div>
+## 🌐 Socials
+[![Agency](https://img.shields.io/badge/Agency-Nexora-black?logo=google-chrome&logoColor=white)](https://nexoraweb.tech)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.navaneeth_.__)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/navaneethpv-dev)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:navaneethpv.dev@gmail.com)
 
 ---
 
-<h1 align="left">📊 GitHub Stats:</h1>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navaneethpv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=navaneethpv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-</div>
+## 💻 Tech Stack
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Akshay-Vs/Akshay-Vs/output/github-contribution-grid-snake-dark.svg" width="100%" align="center" />
 
 ---
-
-<h1 align="left">✍️ Random Dev Quote:</h1>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+## 📌 GitHub Activity
+- Actively building real-world projects
+- Focused on frontend architecture and UI engineering
+- Consistent learner and contributor
 
