@@ -30,7 +30,7 @@ I use Arch Linux and enjoy customizing my development environment.
 ## 🔗 Connect with Me
 
 <p align="left">
-<a href="https://nexoraweb.tech">
+<a href="https://nexoraweb.tech " target="_blank">
   <img src="https://img.shields.io/badge/Agency-Nexora-0f172a?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 <a href="https://instagram.com/_.navaneeth_.__">
